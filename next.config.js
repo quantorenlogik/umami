@@ -22,7 +22,7 @@ module.exports = {
   async headers() {
     return [
       {
-        source: '/umami.js',
+        source: '/plsdontblock.js',
         headers: [
           {
             key: 'Cache-Control',
